@@ -17,7 +17,7 @@ Make sure you have these installed before anything else:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-org/pittpal.git
+git clone https://github.com/LiamBrem/Advise.me
 cd advise.me
 ```
 
